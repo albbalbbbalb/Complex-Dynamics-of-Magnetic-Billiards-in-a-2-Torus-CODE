@@ -1,8 +1,8 @@
 # Complex-Dynamics-of-Magnetic-Billiards-in-a-2-Torus-CODE
 The code related files used for my MSc thesis titled *Complex Dynamics of Magnetic Billiards in a 2-Torus*. This repository contains:
 - The Python package `magdynsys.py` I wrote to compute and visualize trajectories of a magnetic billiard in a 2-Torus,
-- A Jupyter notebook dedicated to stability analysis of certain periodic trajectories,
-- A Jupyter notebook dedicated to creating all the figures in the thesis,
+- A Jupyter notebook `Stability analysis of periodic trajectories.ipynb` dedicated to stability analysis of certain periodic trajectories,
+- A Jupyter notebook `Figures.ipynb` dedicated to creating all the figures in the thesis,
 - PNG copies of all the figures in the thesis
 - npy files of collected data needed to produce some of the figures. Provided for convenience, since it takes hours to collect.
 
